@@ -2,7 +2,7 @@
 
 Proyecto completo de e-commerce desarrollado con React + Vite (frontend) y JSON Server (backend), especializado en productos gaming (consolas, periféricos y componentes) con funcionalidades de carrito de compras y gestión de pedidos.
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 ### Frontend
 
@@ -17,7 +17,7 @@ Proyecto completo de e-commerce desarrollado con React + Vite (frontend) y JSON 
 -   **JSON Server** - API REST simulada para desarrollo rápido
 -   **Node.js** - Entorno de ejecución para JavaScript
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 clase41/
@@ -46,7 +46,7 @@ clase41/
 └── README.md                  # Este archivo
 ```
 
-## 🚀 Instalación y Ejecución
+## Instalación y Ejecución
 
 ### 1. Instalar Dependencias
 
@@ -84,7 +84,7 @@ npm run dev
 
 La aplicación estará disponible en: http://localhost:5173
 
-## 📋 Funcionalidades Implementadas
+## Funcionalidades Implementadas
 
 1. **✅ Proyecto React con Vite** - Configuración moderna y optimizada
 2. **✅ Sitio E-commerce** - Tienda completa de productos gaming
@@ -102,7 +102,7 @@ La aplicación estará disponible en: http://localhost:5173
 14. **✅ Código Comentado** - Documentación completa
 15. **✅ Coherencia de Productos** - Tienda especializada en gaming
 
-## 🎯 Endpoints de la API
+## Endpoints de la API
 
 ### Productos
 
@@ -120,7 +120,7 @@ La aplicación estará disponible en: http://localhost:5173
 -   `PUT /orders/:id` - Actualizar orden
 -   `DELETE /orders/:id` - Eliminar orden
 
-## 💾 Persistencia de Datos
+## Persistencia de Datos
 
 ### Carrito de Compras
 
@@ -133,21 +133,21 @@ La aplicación estará disponible en: http://localhost:5173
 -   **db.json** - Archivo JSON con productos y órdenes
 -   **Auto-guardado** - JSON Server guarda automáticamente los cambios
 
-## 🖥️ Navegación
+## Navegación
 
 -   **/** - Página de inicio con productos destacados
 -   **/products** - Catálogo completo con filtros
 -   **/about** - Información de la empresa
 -   **Carrito** - Accesible desde cualquier página (overlay)
 
-## 📱 Diseño Responsive
+## Diseño Responsive
 
 -   **Desktop** - Grid de 3-4 productos por fila
 -   **Tablet** - Grid de 2-3 productos por fila
 -   **Mobile** - Lista de 1 producto por fila
 -   **Carrito** - Sidebar responsivo que se adapta al dispositivo
 
-## 🔧 Configuración de Desarrollo
+## Configuración de Desarrollo
 
 ### Scripts Disponibles
 
@@ -169,19 +169,17 @@ La aplicación está configurada para funcionar con:
 -   **Backend URL**: http://localhost:3001
 -   **Frontend URL**: http://localhost:5173
 
-## 🛡️ Manejo de Errores
+## Manejo de Errores
 
 -   **Servidor Desconectado** - Mensaje informativo con instrucciones
 -   **Productos No Encontrados** - Estado vacío con opciones de retry
 -   **Error de Checkout** - Feedback claro sobre fallos en el proceso
 -   **Imágenes Rotas** - Placeholder automático para imágenes no válidas
 
-## 🎨 Paleta de Colores (Gaming Theme)
+## Paleta de Colores (Gaming Theme)
 
 -   **Primario**: #3B82F6 (Azul eléctrico)
 -   **Secundario**: #10B981 (Verde gaming)
 -   **Acento**: #EF4444 (Rojo acción)
 -   **Fondo**: #F9FAFB (Gris claro)
 -   **Texto**: #111827 (Negro profundo)
-
----
