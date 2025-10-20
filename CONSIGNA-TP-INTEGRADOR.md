@@ -2,9 +2,9 @@
 
 ## 📋 Información General
 
-**Modalidad**: Individual
-**Fecha de entrega**: viernes 31 de octubre
-**Formato de entrega**: Repositorio GitHub con acceso público
+-   **Modalidad**: Individual
+-   **Fecha de entrega**: viernes 31 de octubre
+-   **Formato de entrega**: Repositorio GitHub con acceso público
 
 ## Objetivo
 
